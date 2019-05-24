@@ -28,9 +28,6 @@
 <h3>Algunos usuarios</h3>
 <p> <em>Email:</em> a@a.com, <em>password:</em> 123456789</p>
 <p> <em>Email:</em> b@a.com, <em>password:</em> 123456789</p>
-<p> <em>Email:</em> c@a.com, <em>password:</em> 123456789</p>
-<p> <em>Email:</em> d@a.com, <em>password:</em> 123456789</p>
-<p> <em>Email:</em> f@a.com, <em>password:</em> 123456789</p>
 
 
 <p>
